@@ -5,7 +5,7 @@
                 fonts.push(file.name);
                 updateFontList();
             } else {
-                alert("Only TTF files are allowed.");
+                alert("Only ttf files are allowed.");
             }
         });
 
